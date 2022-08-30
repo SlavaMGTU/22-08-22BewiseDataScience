@@ -1,5 +1,5 @@
 # 22-08-22BewiseDataScience
-Decoding and clarification of the text of the negotiations.\
+Decoding and clarification of the transcript of the calls\
 Имеем предварительный CSV-файл с расшифровками переговоров\
 <img src="https://ibb.co/GJrr25y"><img src="https://i.ibb.co/7z00W1P/01-transcript-of-the-calls.jpg" alt="01-transcript-of-the-calls" alt="transcript-of-the-calls">
 \
